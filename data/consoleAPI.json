@@ -2,140 +2,140 @@
     "consolas":
         [
             {
-                "id": 1,
+                "id": "1",
                 "nombre": "Nintendo GameCube",
                 "descripcion": "Consola de sobremesa de Nintendo con un diseño compacto y enfoque en juegos multijugador. Introdujo discos ópticos como soporte de almacenamiento.",
                 "precio": "$200",
                 "imagen": "https://i.postimg.cc/L5mGp7Sj/GameCube.png"
             },
             {
-                "id": 2,
+                "id": "2",
                 "nombre": "Xbox Console",
                 "descripcion": "Primera consola de Microsoft, diseñada para competir con la PS2 y GameCube. Presentó características avanzadas como disco duro interno.",
                 "precio": "$299",
                 "imagen": "https://i.postimg.cc/3wMSh6CW/Xbox-Console-Set.png"
             },
             {
-                "id": 3,
+                "id": "3",
                 "nombre": "Atari 2600",
                 "descripcion": "Una de las primeras consolas en popularizar los videojuegos domésticos con cartuchos intercambiables. Incluye clásicos como Pac-Man.",
                 "precio": "$199",
                 "imagen": "https://i.postimg.cc/gJV11pCY/Atari-2600.png"
             },
             {
-                "id": 4,
+                "id": "4",
                 "nombre": "Nintendo 64",
                 "descripcion": "Consola de Nintendo que marcó el salto a gráficos tridimensionales y destacó por títulos como Super Mario 64 y The Legend of Zelda: Ocarina of Time.",
                 "precio": "$199",
                 "imagen": "https://i.postimg.cc/bYRKTz0g/N64-Console.png"
             },
             {
-                "id": 5,
+                "id": "5",
                 "nombre": "Sega Mega Drive (Genesis en América)",
                 "descripcion": "Consola de Sega que ofrecía gráficos avanzados en su tiempo y una biblioteca de juegos icónica, como Sonic the Hedgehog.",
                 "precio": "$189",
                 "imagen": "https://i.postimg.cc/x8jp7zGR/Sega-Mega-Drive.png"
             },
             {
-                "id": 6,
+                "id": "6",
                 "nombre": "Super Nintendo (SNES)",
                 "descripcion": "Exitosa consola de 16 bits de Nintendo, conocida por clásicos como Super Mario World y The Legend of Zelda: A Link to the Past.",
                 "precio": "$199",
                 "imagen": "https://i.postimg.cc/nLpHzdnc/snes.png"
             },
             {
-                "id": 7,
+                "id": "7",
                 "nombre": "Xbox One",
                 "descripcion": "Consola de octava generación de Microsoft, con integración multimedia, soporte para 4K y títulos exclusivos como Halo 5.",
                 "precio": "$499",
                 "imagen": "https://i.postimg.cc/JhJFBm4b/Microsoft-Xbox-One.png"
             },
             {
-                "id": 8,
+                "id": "8",
                 "nombre": "Nintendo Entertainment System (NES)",
                 "descripcion": "Consola de Nintendo que revitalizó la industria de los videojuegos en los años 80, con títulos como Super Mario Bros.",
                 "precio": "$199",
                 "imagen": "https://i.postimg.cc/4NLqDBSh/NES-Console.png"
             },
             {
-                "id": 9,
+                "id": "9",
                 "nombre": "Nintendo 3DS",
                 "descripcion": "Consola portátil de Nintendo que incorporó tecnología 3D sin necesidad de gafas, con juegos como Pokémon X/Y.",
                 "precio": "$249",
                 "imagen": "https://i.postimg.cc/NMqWNFPJ/Nintendo-3-DS.png"
             },
             {
-                "id": 10,
+                "id": "10",
                 "nombre": "PSP (PlayStation Portable)",
                 "descripcion": "Primera consola portátil de Sony con enfoque en gráficos avanzados y multimedia. Permitía jugar títulos como God of War.",
                 "precio": "$249",
                 "imagen": "https://i.postimg.cc/B60VTyXR/PSP.png"
             },
             {
-                "id": 11,
+                "id": "11",
                 "nombre": "Game Boy Advance",
                 "descripcion": "Consola portátil de Nintendo que mejoró las capacidades gráficas del Game Boy original. Popular por títulos como Pokémon Ruby/Sapphire.",
                 "precio": "$99",
                 "imagen": "https://i.postimg.cc/HkrRdXqv/Nintendo-Game-Boy-Advance.png"
             },
             {
-                "id": 12,
+                "id": "12",
                 "nombre": "Xbox 360",
                 "descripcion": "Consola de Microsoft que popularizó los servicios online para multijugador con Xbox Live y títulos como Halo 3.",
                 "precio": "$399",
                 "imagen": "https://i.postimg.cc/4xHLrZcr/Xbox-360-S-Console.png"
             },
             {
-                "id": 13,
+                "id": "13",
                 "nombre": "Nintendo Switch",
                 "descripcion": "Híbrido entre consola portátil y de sobremesa de Nintendo. Popular por títulos como The Legend of Zelda: Breath of the Wild.",
                 "precio": "$299",
                 "imagen": "https://i.postimg.cc/VNbxBn40/Nintendo-Switch.png"
             },
             {
-                "id": 14,
+                "id": "14",
                 "nombre": "Game Boy",
                 "descripcion": "Consola portátil de Nintendo que popularizó los videojuegos portátiles con títulos como Tetris y Pokémon.",
                 "precio": "$89",
                 "imagen": "https://i.postimg.cc/C5JXLNMX/Game-Boy.png"
             },
             {
-                "id": 15,
+                "id": "15",
                 "nombre": "Nintendo DS",
                 "descripcion": "Consola portátil con dos pantallas, una táctil. Tuvo una enorme biblioteca de juegos y ventas masivas.",
                 "precio": "$149",
                 "imagen": "https://i.postimg.cc/022hXLcs/Nintendo-DS.png"
             },
             {
-                "id": 16,
+                "id": "16",
                 "nombre": "PlayStation 2 (PS2)",
                 "descripcion": "Consola de Sony con la biblioteca más vendida de todos los tiempos. Ofreció juegos icónicos como GTA: San Andreas.",
                 "precio": "$299",
                 "imagen": "https://i.postimg.cc/X7z1HXrf/Play-Station-2.png"
             },
             {
-                "id": 17,
+                "id": "17",
                 "nombre": "PlayStation",
                 "descripcion": "Primera consola de Sony, marcó un antes y un después con títulos como Final Fantasy VII y Metal Gear Solid.",
                 "precio": "$299",
                 "imagen": "https://i.postimg.cc/k4vhfcSG/PSX-Console-w-Controller.png"
             },
             {
-                "id": 18,
+                "id": "18",
                 "nombre": "Sega Saturn",
                 "descripcion": "Consola de Sega que compitió con la PS1, destacada por su enfoque en juegos en 2D y títulos como Nights into Dreams.",
                 "precio": "$399",
                 "imagen": "https://i.postimg.cc/J7K2Xpmd/Sega-Saturn.png"
             },
             {
-                "id": 19,
+                "id": "19",
                 "nombre": "PlayStation 3 (PS3)",
                 "descripcion": "Consola de Sony que introdujo el Blu-ray como formato y ofreció títulos exclusivos como The Last of Us.",
                 "precio": "$499",
                 "imagen": "https://i.postimg.cc/YCTV9jkr/ps3.png"
             },
             {
-                "id": 20,
+                "id": "20",
                 "nombre": "Wii",
                 "descripcion": "Consola de Nintendo que revolucionó el mercado con controles de movimiento y juegos como Wii Sports.",
                 "precio": "$249",
